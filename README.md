@@ -130,7 +130,7 @@ Each note stores:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SoftDevMobDev-2025-Classrooms/assignment03-sovithyea.git
+git clone https://github.com/sovithyea/CRUD_note_app
 ```
 
 2. Open the project in Android Studio.
