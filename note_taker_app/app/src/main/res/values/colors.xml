@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#242B2E</color>
+    <color name="Vanilla">#D4E09B</color>
+    <color name="Olivine">#9CB380</color>
+    <color name="cambridgeBlue">#94A89A</color>
+    <color name="Khaki">#C7AC92</color>
+    <color name="Chestnut">#A44A3F</color>
+    <color name="Platinum">#D7D9D7</color>
+    <color name="frenchGray">#C9C5CB</color>
+    <color name="roseQuartz">#BAACBD</color>
+    <color name="Lilac">#B48EAE</color>
+    <color name="dimGray">#646E68</color>
+    <color name="backgroundBeige">#F5F3E7</color>
+</resources>

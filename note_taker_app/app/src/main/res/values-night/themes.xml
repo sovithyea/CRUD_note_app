@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Assignment3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- Dark icons OFF for dark theme -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title">Title.</string>
+    <string name="notes">Notes.</string>
+    <string name="date">Date</string>
+    <string name="Title">Title</string>
+    <string name="Notes">Notes</string>
+    <string name="todo">TODO</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="delete">Delete</string>
+    <string name="add_to_home">Add to Home</string>
+    <string name="pinned">Pinned</string>
+    <string name="list_grid">List/Grid</string>
+    <string name="settings">Settings</string>
+</resources>
