@@ -221,10 +221,6 @@ This project strengthened skills in:
 ## Author
 
 **Sovithyea Prach**
-Student ID: 105270743
-
-COS30017 – Software Development for Mobile Devices
-Swinburne University of Technology
 
 ---
 
@@ -232,7 +228,7 @@ Swinburne University of Technology
 
 GitHub Repository:
 
-https://github.com/SoftDevMobDev-2025-Classrooms/assignment03-sovithyea
+https://github.com/sovithyea/CRUD_note_app
 
 ---
 
