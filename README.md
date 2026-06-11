@@ -44,7 +44,7 @@ The application implements full **CRUD (Create, Read, Update, Delete)** function
 
 ### MainActivity
 
-The main screen of the application that:
+The main screen of the application is:
 
 * Displays all saved notes
 * Supports list/grid layout switching
@@ -54,7 +54,7 @@ The main screen of the application that:
 
 ### NoteTakerActivity
 
-The note editor screen where users can:
+The note editor screen, where users can:
 
 * Create new notes
 * Edit existing notes
@@ -130,7 +130,7 @@ Each note stores:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sovithyea/CRUD_note_app
+git clone https://github.com/sovithyea/crud_note_app
 ```
 
 2. Open the project in Android Studio.
@@ -228,7 +228,7 @@ This project strengthened skills in:
 
 GitHub Repository:
 
-https://github.com/sovithyea/CRUD_note_app
+https://github.com/sovithyea/crud_note_app
 
 ---
 
